@@ -8,8 +8,8 @@ Within this repository, we employ predictive modeling techniques, specifically L
 # Key Features
 Data Cleansing: A meticulous process is undertaken to clean the data, with a specific emphasis on pertinent features like company rating, state, job title, and more.
 
-Predictive Modeling: The application of Linear Regression and classification regression algorithms is executed to ensure precise salary estimation.
-
 Feature Importance Analysis: A comprehensive analysis is conducted to discern the influence of different factors on salary predictions.
 
 Interactive Visualization: The creation of visual representations for salary predictions and insights is facilitated to enhance comprehension and engagement.
+
+Predictive Modeling: The application of Linear Regression and classification regression algorithms is executed to ensure precise salary estimation.
